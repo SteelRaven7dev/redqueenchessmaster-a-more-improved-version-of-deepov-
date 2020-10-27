@@ -1,0 +1,14 @@
+REDQUEEN CHESS ENGINE TODO LIST:
+=======================================================
+
+
+1) Try Monte Carlo & Boltzmann in search
+2) Create opening book code
+3) Add support to Gaviota's EGTB
+4) Try fractional extensions
+5) Don't extend checks with SEE < 0	
+	
+
+
+
+
